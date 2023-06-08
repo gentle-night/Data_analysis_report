@@ -21,9 +21,11 @@ Some Internet product analysis reports
 
 
 
-3.基于AB测试的方法分析支付宝营销效果--案例分析
+## 3.基于AB测试的方法分析支付宝营销效果--案例分析
 
   主要是基于阿里云天池的数据作为一个案例，尝试利用python编程，实现A/B测试的方法，来分析不同营销策略的提升效果情况，以及营销策略的提升是否显著，并给出分析结论与建议。
+
+[基于AB测试的方法分析支付宝营销效果](https://github.com/gentle-night/Data_analysis_report/blob/main/AB%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.ipynb)
 
 
 
