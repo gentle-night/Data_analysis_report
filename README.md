@@ -43,6 +43,16 @@ Some Internet product analysis reports
 
 
 
+
+
+## 4.指标异动分析---案例分析
+
+主要是从理论和案例来理解当指标出现异动时，应该怎么去分析：
+
+理论基础： [指标异动-理论基础](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E5%BC%82%E5%8A%A81-%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
+
+案例分析：[指标异动-案例分析](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E5%BC%82%E5%8A%A82--%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.md)
+
 # 二、理论经济学分析
 
 ## 1.哈罗德-多马增长模型与当今中国的发展的适配性
