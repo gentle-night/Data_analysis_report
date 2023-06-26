@@ -35,7 +35,9 @@ Some Internet product analysis reports
 
 
 
-## 3.基于AB测试的方法分析支付宝营销效果--案例分析
+# 二、案例分析
+
+## 1.基于AB测试的方法分析支付宝营销效果
 
   主要是基于阿里云天池的数据作为一个案例，尝试利用python编程，实现A/B测试的方法，来分析不同营销策略的提升效果情况，以及营销策略的提升是否显著，并给出分析结论与建议。
 
@@ -43,9 +45,7 @@ Some Internet product analysis reports
 
 
 
-
-
-## 4.指标异动分析---案例分析
+## 2.指标异动分析
 
 主要是从理论和案例来理解当指标出现异动时，应该怎么去分析：
 
@@ -53,7 +53,21 @@ Some Internet product analysis reports
 
 案例分析：[指标异动-案例分析](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E5%BC%82%E5%8A%A82--%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.md)
 
-# 二、理论经济学分析
+
+
+## 3.指标体系构建
+
+[游戏玩法好玩性指标的构建--以崩坏星穹铁道为例](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA2--%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E7%8E%A9%E6%B3%95%E7%9A%84%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA.md)
+
+
+
+## 4.市场营销分析
+
+
+
+
+
+# 三、理论经济学分析
 
 ## 1.哈罗德-多马增长模型与当今中国的发展的适配性
 
@@ -73,7 +87,7 @@ Some Internet product analysis reports
 
 
 
-# 三、其他待分析的问题
+# 四、其他待分析的问题
 
 1.关于A/B测试，理论探讨，以及案例分析。
 
