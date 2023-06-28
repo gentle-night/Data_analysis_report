@@ -57,7 +57,7 @@ Some Internet product analysis reports
 
 ## 3.指标体系构建
 
-[游戏玩法好玩性指标的构建--以崩坏星穹铁道为例](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA2--%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E7%8E%A9%E6%B3%95%E7%9A%84%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA.md)
+[游戏玩法好玩性指标的构建--以崩坏星穹铁道为例](https://github.com/gentle-night/Data_analysis_report/blob/main/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90--%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA--%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
 
 
 
@@ -89,9 +89,7 @@ Some Internet product analysis reports
 
 # 四、其他待分析的问题
 
-1.关于A/B测试，理论探讨，以及案例分析。
-
-
+1疫情对电商行业的gmv影响该怎么分析？
 
 2.游戏行业的发展趋势：大厂的工业化产品还是独立小游戏做爆品是未来的出路？AICG对游戏带来的影响？
 
